@@ -13,3 +13,6 @@
 [submodule "black_box_optimization"]
 	path = black_box_optimization
 	url = git@github.com:drewm1980/black_box_optimization.git
+[submodule "extern/opencv"]
+	path = extern/opencv
+	url = git@github.com:markreyn/opencv.git
