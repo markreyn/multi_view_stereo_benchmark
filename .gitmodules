@@ -16,3 +16,6 @@
 [submodule "extern/opencv"]
 	path = extern/opencv
 	url = git@github.com:markreyn/opencv.git
+[submodule "extern/nopencv"]
+	path = extern/nopencv
+	url = git@github.com:markreyn/opencv.git
